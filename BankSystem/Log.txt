@@ -1,1 +1,3 @@
 Logged From - Bank   Time: 07/09/2015 05:57:51   Client ID: 0   Description: "Client Added"   Amount: 23412.0
+Logged From - Bank   Time: 07/09/2015 06:18:30   Client ID: 0   Description: "Client Added"   Amount: 234234.0
+Logged From - dsfdsf   Time: 07/09/2015 06:18:34   Client ID: 0   Description: "Account Opened"   Amount: 3434.0
