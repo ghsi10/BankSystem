@@ -1,0 +1,1 @@
+Logged From - Bank   Time: 07/09/2015 05:57:51   Client ID: 0   Description: "Client Added"   Amount: 23412.0
