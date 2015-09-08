@@ -1,3 +1,9 @@
 Logged From - Bank   Time: 07/09/2015 05:57:51   Client ID: 0   Description: "Client Added"   Amount: 23412.0
 Logged From - Bank   Time: 07/09/2015 06:18:30   Client ID: 0   Description: "Client Added"   Amount: 234234.0
 Logged From - dsfdsf   Time: 07/09/2015 06:18:34   Client ID: 0   Description: "Account Opened"   Amount: 3434.0
+Logged From - Bank   Time: 07/09/2015 21:10:55   Client ID: 0   Description: "Client Added"   Amount: 3453445.0
+Logged From - jhgkghjkghf   Time: 07/09/2015 21:11:09   Client ID: 0   Description: "Account Opened"   Amount: 500.0
+Logged From - Bank   Time: 07/09/2015 21:11:17   Client ID: 1   Description: "Client Added"   Amount: 787686.0
+Logged From - jhgkghjkghf   Time: 07/09/2015 21:12:01   Client ID: 0   Description: "Withdraw"   Amount: 5465645.0
+Logged From - Bank   Time: 07/09/2015 21:14:30   Client ID: 0   Description: "Client Added"   Amount: 10.123415646
+Logged From - Bank   Time: 07/09/2015 21:17:09   Client ID: 0   Description: "Client Added"   Amount: -10.12313246546
